@@ -1,6 +1,10 @@
 # YapScript
 A programming language designed to compile with brainrot keywords!
 
+# How to use
+
+`python yap_script_compiler.py [yapscript file]`
+
 # Usage
 * Variables
 
