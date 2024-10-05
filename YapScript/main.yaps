@@ -1,0 +1,7 @@
+airdrop math
+
+lowkey a isfinnabe 10
+yap $a
+
+lowkey random_number isfinnabe ?mathrandom,0,10
+yap $random_number
